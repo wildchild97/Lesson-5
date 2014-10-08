@@ -33,22 +33,11 @@ public class MakeStudents {
         }
         System.out.println(s1);
         System.out.println(s2);
-        
-        
-       //old code
-        System.out.println("The average for " + s.getName() +" is " + s.getAverage());
-        System.out.println("The top mark for " + s.getName() +" is " + s.getHighscore());
-        System.out.println(s);//runs toString automatically
-        System.out.println("\n\n----------------\n\n");
-        
-        
-        System.out.println("The average for " + s2.getName() +" is " + s2.getAverage());
-        System.out.println("The top mark for " + s2.getName() +" is " + s2.getHighscore());
-        System.out.println(s2);//runs toString automatically
-        
-        System.out.println("\n\n----------------\n\n");
-        
        
+        if ();
+        {
+            
+        }
         
 }
 }
